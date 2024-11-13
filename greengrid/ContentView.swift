@@ -47,6 +47,7 @@ struct ContentView: View {
                 Button(action: {
                     // إضافة الأكشن هنا
                 }) {
+                    
                     Text("Get Started")
                         .fontWeight(.bold)
                         .foregroundColor(.babyblue)
